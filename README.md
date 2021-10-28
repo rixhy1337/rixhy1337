@@ -14,7 +14,7 @@ class rixhy(ReadMe):
         self.occupation = "Part-time developer"
         self.projects = {
             "public": {
-                  "total": 40,
+                  "total": 2,
                   "location": "github.com/richy1337?tab=repositories"
             }
         }
