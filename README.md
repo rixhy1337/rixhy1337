@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <br>Hello im a intermediate python developer<br>
+  <h1>Hello im a intermediate python developer<\h1>
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-3/587253288366374933.png" />
 </p>
