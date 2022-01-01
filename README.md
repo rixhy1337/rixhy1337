@@ -1,9 +1,7 @@
 <p align="center">
   <br>
   <br>Hello im a intermediate python developer<br>
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/587253288366374933.png" />
-</p>
+
 
 <p align="center">
   <br><br>
